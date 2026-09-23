@@ -1,8 +1,8 @@
-# 🚗 Parking Lot – Java LLD Project
+# Parking Lot – Java LLD Project
 
 A **concurrent and thread-safe Parking Lot Management System** built in **Java** using Low-Level Design (LLD) principles and object-oriented programming.
 
-### ✨ Features
+### Features
 
 * Multi-floor parking lot management
 * Supports **Cars, Bikes, and Trucks**
@@ -16,7 +16,7 @@ A **concurrent and thread-safe Parking Lot Management System** built in **Java**
 * Concurrent data handling using `ConcurrentHashMap`
 * Singleton-based Parking Lot management
 
-### 🏗️ Design & Architecture
+### Design & Architecture
 
 The project is structured into multiple layers:
 
